@@ -86,7 +86,7 @@ def image_processing(image):
                 org = (150, 250) 
                 # fontScale 
                 fontScale = 1
-                # Blue color in BGR 
+                # red color in BGR 
                 color = (0, 0, 255) 
                 # Line thickness of 2 px 
                 thickness = 2
