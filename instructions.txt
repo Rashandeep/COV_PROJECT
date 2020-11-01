@@ -1,0 +1,12 @@
+Steps to run application locally in Windows-
+
+Prerequisite: Python3, git and tensorflow needs to be installed on the system.
+
+1. Open command prompt
+2. cd to an empty directory (where you want to store the project).
+3. run: git clone https://github.com/CO18325/COV_PROJECT.git
+   NOTE: There are some files stored in git lfs, so avoid downloading zip.
+4. run: pip install -r requirements.txt
+5. run: python main.py
+
+Now the application would be running at http://127.0.0.1:5000/
