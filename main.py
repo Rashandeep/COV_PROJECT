@@ -108,8 +108,8 @@ def mail():
     subject = request.form.get("subject")
     sender = request.form.get("email")
     msg = request.form.get("message")
-    from1="akapoor.gm2000@gmail.com"
-    to="ayush.kapoor1301@gmail.com"
+    from1=""
+    to=""
 
     mymsg=MIMEMultipart()
     mymsg['From']=from1
@@ -120,7 +120,7 @@ def mail():
 
     server=smtplib.SMTP('smtp.gmail.com',587)
     server.starttls()
-    server.login(from1, "teamWC19") #password
+    server.login(from1, "") #password
     text=mymsg.as_string()
     server.sendmail(from1, to, text)
     server.quit()
