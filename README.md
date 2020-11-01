@@ -17,7 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://inderpreet-portfolio.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/42858969?s=460&u=431a9448b2428168623fe1d39bcd846a316c0fe3&v=4" width="150px;" alt=""/><br /><sub><b>Inderpreet Singh</b></sub></a><br /></td>
-    <td align="center"><a href="https://inderpreet-portfolio.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/42858969?s=460&u=431a9448b2428168623fe1d39bcd846a316c0fe3&v=4" width="150px;" alt=""/><br /><sub><b>Inderpreet Singh</b></sub></a><br /></td>
+    <td align="center"><a href="https://rashandeepsingh.wixsite.com/website-1"><img src="https://avatars1.githubusercontent.com/u/42858960?s=400&u=f437ee1674aa3566c6cca89dddae011b8c494ae3&v=4" width="150px;" alt=""/><br /><sub><b>Rashandeep  Singh</b></sub></a><br /></td>
     <td align="center"><a href="https://inderpreet-portfolio.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/42858969?s=460&u=431a9448b2428168623fe1d39bcd846a316c0fe3&v=4" width="150px;" alt=""/><br /><sub><b>Inderpreet Singh</b></sub></a><br /></td>
     <td align="center"><a href="https://inderpreet-portfolio.netlify.app/"><img src="https://avatars1.githubusercontent.com/u/42858969?s=460&u=431a9448b2428168623fe1d39bcd846a316c0fe3&v=4" width="150px;" alt=""/><br /><sub><b>Inderpreet Singh</b></sub></a><br /></td>
   </tr>
