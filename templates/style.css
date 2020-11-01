@@ -12,6 +12,14 @@ body{
   border: 2px solid black; 
   border-radius: 20px; 
 } 
+
+.title{
+  font-size: larger;
+  /* color: rgb(160, 92, 92); */
+  background: linear-gradient(to right ,rgb(231, 140, 140), rgb(151, 3, 3));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 #date{
   width: 200px;
   margin: auto;
