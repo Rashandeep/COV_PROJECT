@@ -34,6 +34,7 @@ def get_html_data(url):
     data = requests.get(url)
     return data
 
+# WEB SCRAPPING FUNCTION
 def get_corona_detail_of_india():
     url= "https://www.mohfw.gov.in/"
     html_data = get_html_data(url)
