@@ -16,7 +16,8 @@
 ### DESCRIPTION
 <hr>
 
-The idea behind the making of this project is to cover the aspects of **Atmanirbhar** Bharat and **Post COVID World**. In order to protect ourselves from the COVID-19 Pandemic, we need to follow certain protocols such as maintaining social distancing, wearing face masks, washing our hands regularly, etc. Not only that, we must keep ourselves updated with the number coronavirus COVID-19 positive, recovered and death cases in our country and the area we are residing in. So, it becomes increasingly important to check if the people in the crowd wear face masks and maintain social distancing. We have designed a web application that not only detects whether the person is wearing a face mask but also checks if the protocol of social distancing is being followed in an area. Our web application also keeps track of the total number of coronavirus COVID-19 cases via a real time tracker that updates after a day.<br><br>
+The idea behind the making of this project is to cover the aspects of **Atmanirbhar** Bharat and **Post COVID World**. In order to protect ourselves from the COVID-19 Pandemic, we need to follow certain protocols such as maintaining social distancing, wearing face masks, washing our hands regularly, etc. Not only that, we must keep ourselves updated with the number coronavirus COVID-19 positive, recovered and death cases in our country and the area we are residing in. So, it becomes increasingly important to check if the people in the crowd wear face masks and maintain social distancing. 
+In order to ensure that the COVID-19 protocols are being abided by, a Convolutional Neural Network (CNN) based framework - “Co-Yudh” is being developed that comprises features like - **detecting face masks** using the Transfer Learning approach in which the MobileNet2 model is used which is trained on the Simulated Masked Face Dataset (SMFD). Further, the trained model is evaluated on the novel dataset - Mask Evaluation Dataset (MED). Another features include detecting social distancing where Yolov4 model is used. This is an easy-to-use framework that can be installed in various workplaces and can serve all the purposes to keep a check on the COVID-19 protocols in the area. Our preliminary results are quite satisfactory when tested against different environmental variables and show promising avenues for further exploration of the technique. The proposed framework is a more improved version of the existing works done so far. <br><br>
 
 ## INSTALLATION PROCESS
 <hr>
@@ -45,12 +46,6 @@ python main.py
 * The **FACE MASK DETECTOR** could be used at the entry points and can be combined with the automatic door systems. So, the entry of the people will be only if they wear face masks. Also, the face mask detector can be installed in CCTV cameras in a workplace/public place that could keep a check on people if they are violating the face mask protocol. Heavy fines can be kept based on that.
 
 * The **SOCIAL DISTANCING DETECTOR** could be used in CCTV cameras of an organization to make sure that this protocol is being followed in the premises of the organization. If the social distancing protocol is being violated, it will start to give a warning. Hence, the entire picture could be viewed by the organizations’ members via the CCTV monitor. If there is a continuous warning, then the person who is violating this protocol could be caught.
-
-* The **CORONAVIRUS COVID-19 NUMBER OF CASES TRACKER WITH IMMEDIATE MEDICAL CONSULTANCY APPLICATION** could be installed in the LED Boards in public places to update the people about the number of (active, recovered and death) cases in their country. Also, there is an email service that is enabled for the members of an organization to contact a nearby doctor online if he/she is feeling sick or having COVID-19 symptoms. Hence, safety is completely ensured.
-
-
-
-
 
 
 ## DEVELOPERS
